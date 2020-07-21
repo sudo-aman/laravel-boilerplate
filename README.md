@@ -24,7 +24,7 @@ If you come across any issues please [report them here](https://github.com/Amans
 
 ### Contributing
 
-Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Anthony Rappa at rappa819@gmail.com.
+Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Aman Singh at amansingh564@gmail.com
 
 ### Security Vulnerabilities
 
